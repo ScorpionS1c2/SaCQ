@@ -1,0 +1,24 @@
+.wrapper {
+    border: 100px;
+    border-color: khaki;
+}
+.block {
+    border-color: hotpink;
+}
+.block__row {
+    border-color: darkgray;
+}
+.bloc__column {
+    border-color: firebrick;
+}
+.block__column__1 {
+   border: 30px;
+    border-color: blue;
+}
+.block__column__2 {
+    border-color: blueviolet;
+
+}
+.block__column__3 {
+    border-color: darkred;
+}
